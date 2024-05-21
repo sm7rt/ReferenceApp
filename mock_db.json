@@ -1,0 +1,6 @@
+{
+  "topics": [
+    {"id": "1", "title": "History", "content": "History content"},
+    {"id": "2", "title": "Science", "content": "Science content"}
+  ]
+}
